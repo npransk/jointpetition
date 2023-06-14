@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Joint Petition v3 (Own Risk update)/1.0.0": {
+        "runtime": {
+          "Joint Petition v3 (Own Risk update).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Joint Petition v3 (Own Risk update)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

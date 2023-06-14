@@ -1,0 +1,15 @@
+C:\Users\prans\Source\Repos\Joint Petition v3 (Own Risk update)\Joint Petition v3 (Own Risk update)\bin\Debug\net6.0\Joint Petition v3 (Own Risk update).exe
+C:\Users\prans\Source\Repos\Joint Petition v3 (Own Risk update)\Joint Petition v3 (Own Risk update)\bin\Debug\net6.0\Joint Petition v3 (Own Risk update).deps.json
+C:\Users\prans\Source\Repos\Joint Petition v3 (Own Risk update)\Joint Petition v3 (Own Risk update)\bin\Debug\net6.0\Joint Petition v3 (Own Risk update).runtimeconfig.json
+C:\Users\prans\Source\Repos\Joint Petition v3 (Own Risk update)\Joint Petition v3 (Own Risk update)\bin\Debug\net6.0\Joint Petition v3 (Own Risk update).dll
+C:\Users\prans\Source\Repos\Joint Petition v3 (Own Risk update)\Joint Petition v3 (Own Risk update)\bin\Debug\net6.0\Joint Petition v3 (Own Risk update).pdb
+C:\Users\prans\Source\Repos\Joint Petition v3 (Own Risk update)\Joint Petition v3 (Own Risk update)\obj\Debug\net6.0\Joint Petition v3 (Own Risk update).csproj.AssemblyReference.cache
+C:\Users\prans\Source\Repos\Joint Petition v3 (Own Risk update)\Joint Petition v3 (Own Risk update)\obj\Debug\net6.0\Joint Petition v3 (Own Risk update).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prans\Source\Repos\Joint Petition v3 (Own Risk update)\Joint Petition v3 (Own Risk update)\obj\Debug\net6.0\Joint Petition v3 (Own Risk update).AssemblyInfoInputs.cache
+C:\Users\prans\Source\Repos\Joint Petition v3 (Own Risk update)\Joint Petition v3 (Own Risk update)\obj\Debug\net6.0\Joint Petition v3 (Own Risk update).AssemblyInfo.cs
+C:\Users\prans\Source\Repos\Joint Petition v3 (Own Risk update)\Joint Petition v3 (Own Risk update)\obj\Debug\net6.0\Joint Petition v3 (Own Risk update).csproj.CoreCompileInputs.cache
+C:\Users\prans\Source\Repos\Joint Petition v3 (Own Risk update)\Joint Petition v3 (Own Risk update)\obj\Debug\net6.0\Joint Petition v3 (Own Risk update).dll
+C:\Users\prans\Source\Repos\Joint Petition v3 (Own Risk update)\Joint Petition v3 (Own Risk update)\obj\Debug\net6.0\refint\Joint Petition v3 (Own Risk update).dll
+C:\Users\prans\Source\Repos\Joint Petition v3 (Own Risk update)\Joint Petition v3 (Own Risk update)\obj\Debug\net6.0\Joint Petition v3 (Own Risk update).pdb
+C:\Users\prans\Source\Repos\Joint Petition v3 (Own Risk update)\Joint Petition v3 (Own Risk update)\obj\Debug\net6.0\Joint Petition v3 (Own Risk update).genruntimeconfig.cache
+C:\Users\prans\Source\Repos\Joint Petition v3 (Own Risk update)\Joint Petition v3 (Own Risk update)\obj\Debug\net6.0\ref\Joint Petition v3 (Own Risk update).dll
